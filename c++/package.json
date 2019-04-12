@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@wasm-tool/emscripten": "0.0.1",
+    "wrangler-js": "0.0.2"
+  }
+}

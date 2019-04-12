@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "wast-loader": "^1.8.5",
+    "wrangler-js": "0.0.2"
+  }
+}

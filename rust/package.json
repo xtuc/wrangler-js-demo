@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@wasm-tool/wasm-pack-plugin": "0.2.7",
+    "wrangler-js": "0.0.2"
+  }
+}

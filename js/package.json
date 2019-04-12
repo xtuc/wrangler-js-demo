@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "yosay": "^2.0.2",
+    "wrangler-js": "0.0.2"
+  }
+}
