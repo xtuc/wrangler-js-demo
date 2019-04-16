@@ -11,6 +11,8 @@ Currently, and for expirementation purposes, wrangler-js is its own tool. Howeve
 - [JavaScript with a wasm module written in wast](js_plus_wasm_wat/)
 - [Rust with wasm-pack/wasm-bindgen](rust/)
 
+Golang would also be possible using https://github.com/wasm-tool/golang.
+
 ## wrangler-js
 
 It uses Webpack to build the project and will run any loaders (c to wasm compiler with the emscripten loader for instance).
