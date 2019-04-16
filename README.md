@@ -1,5 +1,9 @@
 # wrangler-js-demo
 
+## Warning
+
+Currently, and for expirementation purposes, wrangler-js is its own tool. However, we should make only one tool, which is wrangler. Some merging work is required.
+
 ## Demos
 
 - [fibonacci in c++ and emscripten (fails currently)](c++/)
@@ -9,7 +13,7 @@
 
 ## wrangler-js
 
-Similar tool to wrangler (some merging work is needed). It uses Webpack to build the project and will run any loaders (c to wasm compiler with the emscripten loader for instance).
+It uses Webpack to build the project and will run any loaders (c to wasm compiler with the emscripten loader for instance).
 If Wasm modules were generated during the build, wrangler-js will generate the corresponding Worker metadata.json, do some wiring and publish the worker code.
 
 ### Usage
