@@ -10,6 +10,7 @@ Currently, and for expirementation purposes, wrangler-js is its own tool. Howeve
 - [JavaScript with ESM and a npm package](js/)
 - [JavaScript with a wasm module written in wast](js_plus_wasm_wat/)
 - [Rust with wasm-pack/wasm-bindgen](rust/)
+- [TypeScript](typescript/)
 
 Golang would also be possible using https://github.com/wasm-tool/golang.
 
